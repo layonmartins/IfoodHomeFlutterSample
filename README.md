@@ -7,7 +7,7 @@
 * Image.asset
 * ElevatedButton
 
-<img src="assets/images/logo.png" width="40%" />
+<img src="assets/images/screen1.png" width="40%" />
 
 ### Reference
 * https://www.youtube.com/watch?v=9zkKGkFj3qg&list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB&index=27
